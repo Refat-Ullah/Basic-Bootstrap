@@ -2,3 +2,16 @@ body{
     font-family: 'Open Sans', sans-serif;
 font-family: 'Source Sans Pro', sans-serif;
 }
+.logo{
+    width: 120px;
+}
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    margin-left: 35%;
+    margin-top: 50px;
+    background-color: rgb(206, 78, 55);
+    padding: 20px;
+    border-radius: 10px;
+}
