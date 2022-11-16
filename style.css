@@ -30,3 +30,12 @@ h1{
 .slide{
     text-align: center;
 }
+.btn{
+    background-color: rgb(250, 108, 83);
+    color: white;
+    position: fixed;
+    right: 20px;
+    padding: 10px 15px;
+    text-transform: uppercase;
+
+}
